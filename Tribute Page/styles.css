@@ -1,0 +1,25 @@
+img {
+    display: block;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    align-content: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
